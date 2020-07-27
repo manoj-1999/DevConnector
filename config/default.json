@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://manoj:1234@devconnector-shard-00-00-hon4u.mongodb.net:27017,devconnector-shard-00-01-hon4u.mongodb.net:27017,devconnector-shard-00-02-hon4u.mongodb.net:27017/dev?ssl=true&replicaSet=DEVCONNECTOR-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "Secret":"BestSecretKey",
+    "githubClientId":"bc2ad3497e8432bef7a0",
+    "githubSecret":"f35bcf41d874f7976c424ccfc1fa1c0bb96167a2"
+}
